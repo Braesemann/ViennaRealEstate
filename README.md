@@ -19,13 +19,3 @@ Available online: TBC
 
 **Data anonymisation**:
 Data provided here does not contain any personal information. In other words, all data are anonymous.
-
-
-### Folder Structure
-
-- Data (for figures in R) 
-  - Fig2A_df
-    - Contains the number of founders a startup has (“org_numfounders”) and whether it was successful (“success”)
-  - Fig2B_df 
-    - Contains founders, their big 5 percentile scores, startups they were part of (“anon_org”), and whether the startup was a success (“success”) 
-  - 
