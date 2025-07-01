@@ -6,7 +6,7 @@ __Please cite as__: _Braesemann, F., Kluge, J., & Lorenz, H. (2025). How have ur
 
 Available online [HERE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322629).
 
-**Contact**: Dr Fabian Braesemann, corresponding author (fabian.braesemann@oii.ox.ac.uk)
+**Contact**: Dr Fabian Braesemann, corresponding author (fabian.braesemann@oii.ox.ac.uk).
 
 
 ### Description
