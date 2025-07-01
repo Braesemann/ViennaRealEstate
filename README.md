@@ -11,9 +11,9 @@ Available online [HERE](https://journals.plos.org/plosone/article?id=10.1371/jou
 
 ### Description
 
-**Last modified**: 1st July 2025
+**Last modified**: 1st July 2025.
 
-**Authors**: Fabian Braesemann, Jan Kluge, Hanno Lorenz
+**Authors**: Fabian Braesemann, Jan Kluge, Hanno Lorenz.
 
 **Abstract**: The digitisation of economic activity in response to the Covid-19 pandemic has reshaped housing demands, potentially leading to the hollowing out of inner cities due to reduced reliance on traditional office spaces. Vienna, renowned for its progressive and diverse housing structures, offers a compelling case study to dissect the interplay between digitisation and flexibilisation of work trends and local housing preference dynamics. In this study, we investigated a data set of more than 120,000 apartment listings from a large online real estate platform to unveil broader patterns shaping residential preferences caused by the Covid-19 pandemic. In analysing rent premiums, we find that amenities related to work-from-home routines have risen in importance while others remained stagnant or saw declining rent premiums. These findings point towards shifted housing preferences to accommodate the need to work from home. This trend is likely to influence housing preferences long after the end of the pandemic, which demands adjusted city planning and housing policies to build sustainable urban environments for a future of hybrid working.
 
