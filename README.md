@@ -4,7 +4,7 @@ Data to produce the study findings of the paper 'How have urban housing preferen
 
 __Please cite as__: _Braesemann, F., Kluge, J., & Lorenz, H. (2025). How have urban housing preferences developed in response to the COVID-19 pandemic? A case study of Vienna. PLoS One, 20(5), e0322629._
 
-Available online [HERE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322629)
+Available online [HERE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322629).
 
 **Contact**: Dr Fabian Braesemann, corresponding author (fabian.braesemann@oii.ox.ac.uk)
 
